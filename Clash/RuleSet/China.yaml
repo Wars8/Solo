@@ -1,7 +1,7 @@
+    - DOMAIN,sublink.online
     - DOMAIN-KEYWORD,1password
     - DOMAIN-SUFFIX,vultr.com
     - DOMAIN-SUFFIX,mb3admin.com
-    - DOMAIN,sublink.online
     - DOMAIN-SUFFIX,local
     - IP-CIDR,192.168.0.0/16,no-resolve
     - IP-CIDR,10.0.0.0/8,no-resolve
