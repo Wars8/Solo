@@ -1,4 +1,4 @@
-[Rule]
+## GLOBAL ##
 # LINE
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,line.naver.jp
