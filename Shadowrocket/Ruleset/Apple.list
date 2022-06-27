@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-host,ppq.apple.com
+DOMAIN,ppq.apple.com
 # iCloud
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apzones.com
