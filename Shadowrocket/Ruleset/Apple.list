@@ -14,18 +14,3 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-# App Store
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN,ppq.apple.com
-# iCloud
-DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,gc.apple.com
-DOMAIN-SUFFIX,icloud.apple.com
-DOMAIN-SUFFIX,iwork.apple.com
-DOMAIN-KEYWORD,icloud.com.akadns.net
-# TestFlight
-DOMAIN,beta.apple.com
-DOMAIN,testflight.apple.com
