@@ -1,7 +1,4 @@
 payload:
-  - USER-AGENT,QQMobileToken*
-  - USER-AGENT,ColorfulCloudsPro*
-  - USER-AGENT,JDJRMobile*
   # Baidu/iqiyi
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,baidubcr.com
