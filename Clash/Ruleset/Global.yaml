@@ -6,8 +6,6 @@ payload:
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line-cdn.net
   - DOMAIN-SUFFIX,line-scdn.net
-  # Other
-  - DOMAIN-SUFFIX,voachinese.com
   # Google
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,google
