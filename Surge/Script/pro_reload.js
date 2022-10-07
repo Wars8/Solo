@@ -10,7 +10,7 @@ let startTime = timeTransform(dateNow,dateTime)
 if ($trigger == "button") await httpAPI("/v1/profiles/reload");
 
   $done({
-      title:"Surge Pro | 2021-12-28",
+      title:"Surge Pro | 2023-10-01",
       content:`启动时长: ${startTime}`,
 		icon: params.icon,
 		"icon-color":params.color
